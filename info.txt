@@ -2,3 +2,5 @@ https://legendary-yodel-pj9w9pwv64xvf6jw6.github.dev/
 https://legendary-yodel-pj9w9pwv64xvf6jw6-8889.app.github.dev/tree?
 
 81228ade-01ad-4fbd-a1c9-a99bacdd6434
+
+nohup jupyter notebook > /dev/null 2>&1 &
